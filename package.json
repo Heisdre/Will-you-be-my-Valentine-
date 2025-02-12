@@ -1,0 +1,15 @@
+{
+  "name": "will-you-be-my-valentine-",
+  "version": "1.0.0",
+  "description": "This project is designed to be an interactive webpage to ask someone to be your Valentine. Please use this code as inspiration and avoid simply copying it without understanding or giving credit.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
